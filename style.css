@@ -1,0 +1,13 @@
+body{
+    background-color:#d7635f;
+}
+
+h1{
+   font-family: 'Special Elite', cursive;
+   background-color: cornsilk;
+   color: #b55528;
+}
+
+#show_sketch{
+    float: right;
+}
